@@ -1,3 +1,5 @@
+console.log("DOM Lab: Ironhack Cart")
+
 // ITERATION 1
 
 function updateSubtotal(product) {
